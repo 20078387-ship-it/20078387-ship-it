@@ -1,16 +1,26 @@
-## Hi there 👋
+¡Hola! 👋 Soy Alessandro Leonel
 
-<!--
-**20078387-ship-it/20078387-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy estudiante de **Desarrollo de Software** en El Salvador, apasionado por la tecnología, la programación y el desarrollo web.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo a crear páginas web y aplicaciones utilizando diferentes tecnologías. Me gusta mejorar mis habilidades, descubrir nuevas herramientas y desarrollar proyectos que me ayuden a crecer como programador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y herramientas
+- 🌐 HTML y CSS
+- ⚡ JavaScript
+- 🐍 Python
+- 🛠️ Visual Studio Code
+- 🐳 Docker y GitHub Actions
+
+### 🎯 Mis objetivos
+- Mejorar mis habilidades de programación.
+- Crear proyectos web cada vez mejores.
+- Aprender nuevas tecnologías y herramientas.
+- Convertirme en un desarrollador de software profesional.
+
+### 📌 Sobre mí
+- 🇸🇻 Ubicación: El Salvador
+- 🎓 Estudiante de Desarrollo de Software
+- 💡 Siempre dispuesto a aprender cosas nuevas.
+- 🚀 Construyendo mi camino en el mundo de la programación.
+
+**¡Aprendiendo, programando y mejorando un proyecto a la vez!**
